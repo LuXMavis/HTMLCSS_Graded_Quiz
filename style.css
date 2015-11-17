@@ -10,5 +10,17 @@ figcaption{
 }
 body{
   font-family: Times;
-  Background-color: peach;
+  Background-color:#E8D3AB;
+}
+a:link{
+    text-decoration: none;
+    color:#FFC33B;
+}
+
+a:hover{
+    color:#E89414;
+}
+
+a:visited{
+    color:#FF8C23;
 }
