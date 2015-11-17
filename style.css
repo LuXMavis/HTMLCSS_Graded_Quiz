@@ -2,3 +2,6 @@ figure{
   border: 1px solid black;
   float:right;
 }
+.class{
+  font-family: bold;
+}
